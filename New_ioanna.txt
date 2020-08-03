@@ -4,3 +4,4 @@ Now I am in the MASTER LOCAL
 Cahnge master , then push signin branch
 Modi in the master
 
+Now I'm making changes in signin and then push when I'm checkout on the master
